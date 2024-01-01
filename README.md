@@ -1,4 +1,3 @@
 # TurnipBook_Store
-This is my first development website project about Bookstore eCommerce Websites.
-With PHP,CSS,JS.
+My first development project about Bookstore eCommerce websites with PHP,CSS,JS.
 
