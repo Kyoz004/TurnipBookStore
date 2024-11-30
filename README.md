@@ -6,7 +6,7 @@ Developed with a modern and user-friendly design. The goal of this project is to
 ## Installation
 1. Clone the repository to your machine.
 2. Open the repository folder in your web browser.
-3. Run Xampp file to experience.
+3. Run Xampp and start the web.
 
 ## Development
 The project is in its early development stage and i are gradually improving the design and features of the website to meet the modern and trending market demands.
